@@ -13,22 +13,22 @@
 
 ---
 
-### 🚀 Featured Projects
-- [🌐 InSync](https://github.com/nahomtamene/capstone-projects-2024-fall/aldwairi-projects-insync-language-translator)  
+###  Featured Projects
+- [ InSync](https://github.com/nahomtamene/capstone-projects-2024-fall/aldwairi-projects-insync-language-translator)  
   Real-time voice translator web app using Flask + Hugging Face  
 
-- [🔒 Postor Pilot](https://github.com/nahomtamene/poster_pilot.git)  
+- [ Postor Pilot](https://github.com/nahomtamene/poster_pilot.git)  
   An AI-powered poster generation tool that creates custom promotional posters for businesses and events. Features automatic Zapier integration and Facebook Pages optimization.
 
-- [📈 Market Scanner](https://github.com/nahomtamene/Market-Scanner)  
+- [ Market Scanner](https://github.com/nahomtamene/Market-Scanner)  
   Technical stock analysis + SQLite data storage  
 
-- [🛰️ Satellite Imagery Classifier](https://github.com/nahomtamene/Satellite-Imagery-Classifier)  
+- [ Satellite Imagery Classifier](https://github.com/nahomtamene/Satellite-Imagery-Classifier)  
   Jupyter notebook ML project for image classification  
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 [LinkedIn](https://linkedin.com/in/nahomtamene)
 
 
