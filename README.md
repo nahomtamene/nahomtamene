@@ -6,7 +6,7 @@
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 - **Languages:** Python, JavaScript, Java, C++
 - **Frameworks:** Flask, Node.js, React
 - **Tools:** SQLite, Hugging Face, Socket Programming, Git
