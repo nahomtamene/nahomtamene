@@ -15,7 +15,10 @@
 
 ###  Featured Projects
 - [ InSync](https://github.com/nahomtamene/capstone-projects-2024-fall/aldwairi-projects-insync-language-translator)  
-  Real-time voice translator web app using Flask + Hugging Face  
+  Real-time voice translator web app using Flask + Hugging Face
+
+- [ US City Guesser](https://github.com/cis3296s24/US-City-Guesser)
+  React-based web application using geolocation APIs for an interactive guessing game.
 
 - [ Postor Pilot](https://github.com/nahomtamene/poster_pilot.git)  
   An AI-powered poster generation tool that creates custom promotional posters for businesses and events. Features automatic Zapier integration and Facebook Pages optimization.
