@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nahom Tamene
+Hi! I'm Nahom Tamene
 
  Graduate Computer Science student at Temple University (Graduating May 2027)  
  Interested in machine learning, financial computing, and real-time language translation  
