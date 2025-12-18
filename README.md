@@ -14,6 +14,11 @@ Hi! I'm Nahom Tamene
 ---
 
 ###  Featured Projects
+
+- [ Neuromuscular Diesease EMG Classifier](https://github.com/nahomtamene/EMG_Classifier_TransferLearning)
+
+  Transfer learning-based EMG classifier to accurately recognize neuromuscular diseases from gesture sensor data.
+
 - [ InSync](https://github.com/nahomtamene/capstone-projects-2024-fall/aldwairi-projects-insync-language-translator)
   
   Real-time voice translator web app using Flask + Hugging Face
