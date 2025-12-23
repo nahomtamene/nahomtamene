@@ -19,7 +19,7 @@ Hi! I'm Nahom Tamene
 
   Transfer learning-based EMG classifier to accurately recognize neuromuscular diseases from gesture sensor data.
 
-- [ InSync](https://github.com/nahomtamene/capstone-projects-2024-fall/aldwairi-projects-insync-language-translator)
+- [ InSync](https://github.com/capstone-projects-2024-fall/aldwairi-projects-insync-language-translator)
   
   Real-time voice translator web app using Flask + Hugging Face
 
