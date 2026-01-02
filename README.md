@@ -7,9 +7,10 @@ Hi! I'm Nahom Tamene
 ---
 
 ### Tech Stack
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** Flask, Node.js, React
-- **Tools:** SQLite, Hugging Face, Socket Programming, Git
+- **Languages:** Java, Python, C/C++, JavaScript, GraphDB, SQL (PostgreSQL, MySQL), Kotlin, R
+- **Frameworks:** React, Node.js, Flask, FastAPI, ASP.NET Core, Database Management, CI/CD, Angular, JUnit, Material-UI, OOP
+- **Tools:** AWS, Google Cloud Platform, Docker, Git, TravisCI, CI/CD, Zabbix, Microsoft 365, TensorFlow, Keras, Model Fine-tuning, Hugging Face, Scikit-learn, PyTorch, Transformers, Pandas, NumPy,
+Matplotlib, OpenCV
 
 ---
 
